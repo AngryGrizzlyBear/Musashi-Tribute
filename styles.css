@@ -4,9 +4,19 @@ body {
     font-weight: 100;
     font-style: normal;
     background: #f0dfaf;
+    margin: 0;
 }
 
 #header {
     display: flex;
     justify-content: center;
+    font-weight: 700;
+   font-size: 100px;
+}
+
+#introduction {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: #709080;
 }
