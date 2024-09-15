@@ -1,0 +1,12 @@
+
+body {
+    font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: 100;
+    font-style: normal;
+    background: #f0dfaf;
+}
+
+#header {
+    display: flex;
+    justify-content: center;
+}
