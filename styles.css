@@ -15,6 +15,7 @@
     --light: #F6F6f2;
 
     --sec-pad: 150px 0;
+    --sec-pad-2:30px 0;
     --mw: 800px;
     --w: 90%;
     --gap: 2em;
@@ -52,6 +53,7 @@ h1,h2,h3 {
 .brief-introduction > p {
     margin-top: 50px;
     color: var(--light);
+    margin: 50px;
 }
 
 .description {
@@ -70,6 +72,6 @@ h1,h2,h3 {
 }
 
 .footer{
-    padding: var(--sec-pad);
+    padding: var(--sec-pad-2);
     background-color: var(--light);
 }
